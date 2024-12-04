@@ -1,0 +1,4 @@
+https://github.com/otabekinha/todo_app_flutter/
+https://www.youtube.com/watch?v=VfdTUKt21Ls&ab_channel=TechWithOtabek
+
+* done till Bottom panel for having text with add button
